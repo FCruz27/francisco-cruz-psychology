@@ -74,7 +74,7 @@ sections:
       title: 'Grant and Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: 2006
+      date_format: '2006'
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -83,7 +83,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: 2021
+          date_start: ''2021
           description: ''
           icon: ''
           organization: University of Lisbon
