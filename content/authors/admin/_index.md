@@ -38,19 +38,19 @@ interests:
 education:
   courses:
     - course: PhD in Social Psychology
-      institution: Faculty of Psychology - University of Lisbon
+      institution: Faculty of Psychology, University of Lisbon
       year: Ongoing
      - course: Visiting Student
-      institution: Department of Psychology - Princeton University
+      institution: Department of Psychology, Princeton University
       year: Ongoing
     - course: PgDip in Data Analysis in Social Sciences
-      institution: School of Sociology and Public Policy - Iscte
+      institution: School of Sociology and Public Policy, Iscte
       year: 2022
     - course: Integrated MSc in Applied Social Cognition
-      institution: Faculty of Psychology - University of Lisbon
+      institution: Faculty of Psychology, University of Lisbon
       year: 2021
     - course: ERASMUS+ Programme in Psychology
-      institution: Faculty of Behavioural and Social Sciences - University of Groningen
+      institution: Faculty of Behavioural and Social Sciences, University of Groningen
       year: 2018
 
 
