@@ -83,30 +83,48 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2023-01-01'
+          description: ''
+          icon: ''
+          organization: Fulbright Portugal
+          organization_url: '' 
+          title: Fulbright Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          icon: ''
+          organization: Jornadas do Jovem Investigador em Psicologia 2023
+          organization_url: '' 
+          title: Best Conference Presentation - 1st Place
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-01-01'
+          description: ''
+          icon: ''
+          organization: Fundação para a Ciência e Tecnologia
+          organization_url: '' 
+          title: Doctoral Studentship 2022
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-01-01'
+          description: ''
+          icon: ''
+          organization: Jornadas do Jovem Investigador em Psicologia 2022
+          organization_url: '' 
+          title: Best Conference Presentation - 3rd Place
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-01-01'
           description: ''
           icon: ''
           organization: University of Lisbon
           organization_url: '' 
           title: Merit Fellowship 2020/2021
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
