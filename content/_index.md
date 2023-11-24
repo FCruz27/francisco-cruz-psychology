@@ -81,6 +81,7 @@ sections:
       columns: '2'
       view: card
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Grant and Awards'
