@@ -83,12 +83,12 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: 2021
+          date_start: '2021'
           description: ''
           icon: ''
-          organization: FPUL
-          organization_url: ''
-          title: TEST
+          organization: University of Lisbon
+          organization_url: '' 
+          title: Merit Fellowship 2020/2021
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
