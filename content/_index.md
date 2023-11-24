@@ -80,7 +80,7 @@ sections:
     design:
       columns: '2'
       view: card
-- block: accomplishments
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Grant and Awards'
@@ -122,7 +122,7 @@ sections:
           url: ''
     design:
       columns: '2'
-- block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
