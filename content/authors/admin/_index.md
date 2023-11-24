@@ -6,12 +6,12 @@ title: Francisco Cruz
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Francisco
+last_name: Cruz
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -89,5 +89,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francisco Cruz is a doctoral student in social psychology at the Faculty of Psychology, University of Lisbon, under the supervision of Prof. André Mata (University of Lisbon) and Prof. Tania Lombrozo (Princeton University). Currently, he is visiting Princeton University in research collaborator capacity. His project explores why people are sceptical of psychology as a science, as well as how to increase trust in psychological science. 
+
+His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces). 
+
+He is a Student Affiliate at the Center for the Science of Moral Understanding, an Author at CogBites, and an Opinion Editor at Cruamente.
 {style="text-align: justify;"}
