@@ -45,7 +45,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Interests
+      title: Research Interests
       filters:
         folders:
           - interests
