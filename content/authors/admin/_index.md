@@ -17,74 +17,47 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Lisbon
+    url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Francisco Cruz is a doctoral student in social psychology at the Faculty of Psychology, University of Lisbon, under the supervision of Prof. André Mata (University of Lisbon) and Prof. Tania Lombrozo (Princeton University). Currently, he is visiting Princeton University in research collaborator capacity. His project explores why people are sceptical of psychology as a science, as well as how to increase trust in psychological science.
+
+His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces).
+
+He is a Student Affiliate at the Center for the Science of Moral Understanding, an Author at CogBites, and an Opinion Editor at Cruamente.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social Psychology
+  - Social Cognition
+  - Cognitive Psychology
+  - Experimental Psychology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Social Psychology
+      institution: Faculty of Psychology - University of Lisbon
+      year: Ongoing
+     - course: Visiting Student
+      institution: Department of Psychology - Princeton University
+      year: Ongoing
+    - course: PgDip in Data Analysis in Social Sciences
+      institution: School of Sociology and Public Policy - Iscte
+      year: 2022
+    - course: Integrated MSc in Applied Social Cognition
+      institution: Faculty of Psychology - University of Lisbon
+      year: 2021
+    - course: ERASMUS+ Programme in Psychology
+      institution: Faculty of Behavioural and Social Sciences - University of Groningen
+      year: 2018
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
