@@ -40,7 +40,7 @@ education:
     - course: PhD in Social Psychology
       institution: Faculty of Psychology, University of Lisbon
       year: Ongoing
-     - course: Visiting Student
+    - course: Visiting Student
       institution: Department of Psychology, Princeton University
       year: Ongoing
     - course: PgDip in Data Analysis in Social Sciences
