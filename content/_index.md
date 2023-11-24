@@ -83,7 +83,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021'
+          date_start: 2021
           description: ''
           icon: ''
           organization: FPUL
