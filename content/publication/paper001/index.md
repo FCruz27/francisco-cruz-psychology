@@ -9,11 +9,11 @@ authors:
 - António Farinha-Fernandes
 - Miguel Domingues
 - Ana Margarida Sousa
-date: "2020"
+date: "2020-01-01T00:00:00Z"
 doi: "https://doi.org/10.3758/s13414-020-02113-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
