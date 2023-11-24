@@ -25,7 +25,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: example
 ---
 
 This research interest revolves around why people believe that some psychological phenomena are more explainable than others. Furthermore, we address the nature of these beliefs, as well as their malleability, namely under contexts in which people are motivated to reach a desired conclusion or after exposure to formal scientific training opportunities. This project seeks to inform policies, by designing interventions dedicated to dismantling scepticism towards (psychological) science.
