@@ -1,8 +1,6 @@
 ---
 title: "On the trajectory of discrimination: A meta-analysis and forecasting survey capturing 44 years of field experiments on gender and hiring decisions"
 authors:
-Schaerer, Michael and du Plessis, Christilene and Nguyen, My and van Aert, Robbie and Tiokhin, Leo and Lakens, Daniel and Clemente, Elena and Pfeiffer, Thomas and Dreber, Anna and , Magnus and others},
-
 - Michael Schaerer
 - Christilene du Plessis
 - My Nguyen
