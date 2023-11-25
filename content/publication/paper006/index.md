@@ -1,15 +1,34 @@
 ---
-title: "The mechanisms supporting holistic perception of words and faces are not independent"
+title: "The effect of pre-event instructions on eyewitness identification"
 authors:
-- Paulo Ventura
-- Tina T. Liu
+- Mario J. Baldassari
+- Kara N. Moore
+- Ira E. Hyman Jr
+- Lorraine Hope
+- Eric Y. Mah
+- D. Stephen Lindsay
+- Jamal Mansour
+- Renan Saraiva
+- Ruth Horry
+- Hannah Rath
+- Lauren Kelly
+- Rosie Jones
+- Shannan Vale
+- Bethany Lawson
+- Josh Pedretti
+- Tomás A. Palma
 - admin
-- Alexandre Pereira
-date: "2023-05-01T00:00:00Z"
-doi: "https://doi.org/10.3758/s13421-022-01369-0"
+- Joana Quarenta
+- Ine Van der Cruyssen
+- Mila Mileva
+- Jessica Allen
+- Brittany Jeye
+- Sara Wiechert
+date: "2023-02-28T00:00:00Z"
+doi: "https://doi.org/10.1186/s41235-023-00471-4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2023-02-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,15 +36,15 @@ publishDate: "2023-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Memory & Cognition, 51* (4)"
+publication: "*Cognitive Research: Principles and Implications, 8* (1)"
 publication_short: ""
 
-abstract: The question of whether word and face recognition rely on overlapping or dissociable neural and cognitive mechanisms received considerable attention in the literature. In the present work, we presented words (aligned or misaligned) superimposed on faces (aligned or misaligned) and tested the interference from the unattended stimulus category on holistic processing of the attended category. In Experiment 1, we found that holistic face processing is reduced when a face was overlaid with an unattended, aligned word (processed holistically). In Experiment 2, we found a similar reduction of holistic processing for words when a word was superimposed on an unattended, aligned face (processed holistically). This reciprocal interference effect indicates a trade-off in holistic processing of the two stimuli, consistent with the idea that word and face recognition may rely on non-independent, overlapping mechanisms.
+abstract: Research on eyewitness identification often involves exposing participants to a simulated crime and later testing memory using a lineup. We conducted a systematic review showing that pre-event instructions, instructions given before event exposure, are rarely reported and those that are reported vary in the extent to which they warn participants about the nature of the event or tasks. At odds with the experience of actual witnesses, some studies use pre-event instructions explicitly warning participants of the upcoming crime and lineup task. Both the basic and applied literature provide reason to believe that pre-event instructions may affect eyewitness identification performance. In the current experiment, we tested the impact of pre-event instructions on lineup identification decisions and confidence. Participants received non-specific pre-event instructions (i.e., “watch this video”) or eyewitness pre-event instructions (i.e., “watch this crime video, you’ll complete a lineup later”) and completed a culprit-absent or -present lineup. We found no support for the hypothesis that participants who receive eyewitness pre-event instructions have higher discriminability than participants who receive non-specific pre-event instructions. Additionally, confidence-accuracy calibration was not significantly different between conditions. However, participants in the eyewitness condition were more likely to see the event as a crime and to make an identification than participants in the non-specific condition. Implications for conducting and interpreting eyewitness identification research and the basic research on instructions and attention are discussed.
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/profile/Paulo-Ventura-3/publication/365369430_The_mechanisms_supporting_holistic_perception_of_words_and_faces_are_not_independent
+url_pdf: https://www.researchgate.net/publication/368883458_The_effect_of_pre-event_instructions_on_eyewitness_identification
 url_code: ''
 url_dataset: ''
 url_poster: ''
