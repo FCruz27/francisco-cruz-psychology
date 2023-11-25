@@ -1,18 +1,13 @@
 ---
-title: "From Perugino to Picasso: Holistic processing of faces in paintings"
+title: "Of faces and words: On domain-specific and domain-general accounts"
 authors:
 - Paulo Ventura
-- Tina T. Liu
 - admin
-- Alexandre Pereira
-- Miguel Domingues
-- José Guerreiro
-- João Delgado
-date: "2023-07-20T00:00:00Z"
-doi: "https://doi.org/10.1037/aca0000575"
+date: "2023-06-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-20T00:00:00Z"
+publishDate: "2023-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,15 +15,15 @@ publishDate: "2023-07-20T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychology of Aesthetics, Creativity, and the Arts, 17* (4)"
+publication: "*Journal of Expertise, 6* (3)"
 publication_short: ""
 
-abstract: Faces are generally assumed to be processed holistically, that is, features are represented in an integrated fashion. Similarly, pictorial representations of faces (e.g., drawings) have been shown to elicit holistic processing. Some researchers, however, have contested the concept of holistic face processing, suggesting that the perception of a face is no more than the sum of individual face parts. In the present study, we ask whether faces in paintings are processed holistically and, if so, whether this holistic processing is consistent across art styles along the realism–distortion dimension. Additionally, we seek to understand whether other factors, such as interest in art and exposure to art (e.g., visiting museums), as well as general visual recognition abilities, contribute to the potential holistic processing of faces in paintings. We found holistic face processing across stimulus sets, suggesting that holistic processing of faces in art occurs regardless of the characteristics of the art style (i.e., realism/distortion).Moreover, general interest in art showed a marginally negative correlation with holistic face processing. In contrast, general visual recognition abilities correlated positively with holistic processing, suggesting that increased capacity to process purely visual information benefits perceptual integration and grouping.
+abstract: In 2019, we published a paper in the Journal of Expertise (Ventura et al., 2019) showing that visual words show holistic processing, deemed a characteristic of faces, when the visual stimuli are within the limits of expertise of the Visual Word Form System (Cohen et al., 2008) and thus when there is fast parallel reading. In this commentary, we discuss this evidence considering the perspective of shared processing across both faces and words vs. the perspective of domain specificity for the processing of each domain. Considering the most recent evidence of mutual interference of holistic processing of words and faces (Ventura et al., 2023), we conclude for the first perspective; i.e., shared processing across both faces and words.
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/372532251_From_Perugino_to_Picasso_Holistic_processing_of_faces_in_paintings
+url_pdf: https://www.researchgate.net/publication/374352751_Of_Faces_and_Words_On_Domain-Specific_and_Domain-General_Accounts
 url_code: ''
 url_dataset: ''
 url_poster: ''
