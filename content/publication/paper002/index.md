@@ -1,19 +1,21 @@
 ---
-title: "Further evidence for a late locus of holistic word processing: Exploring vertex effect in the word composite task"
+title: "Change detection vs. change localization for own-race and other-race faces"
 authors:
 - Paulo Ventura
-- João Delgado
 - José Guerreiro
-- admin
+- Alexandre Pereira
+- João Delgado
 - Vivienne Rosário
 - António Farinha-Fernandes
 - Miguel Domingues
-- Ana Margarida Sousa
-date: "2020-08-30T00:00:00Z"
-doi: "https://doi.org/10.3758/s13414-020-02113-z"
+- admin
+- Bruno Faustino
+- Alan Wong
+date: "2022-02-16T00:00:00Z"
+doi: "https://doi.org/10.3758/s13414-022-02448-9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-30T00:00:00Z"
+publishDate: "2022-02-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +23,10 @@ publishDate: "2020-08-30T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Attention, Perception, & Psychophysics, 82*(7)"
+publication: "*Attention, Perception, & Psychophysics, 84*(3)"
 publication_short: ""
 
-abstract: Previous studies have shown a rather late and lexical level for holistic word processing. In the present study, we evaluated whether there are early effects in holistic processing of words, taking into consideration the role of lower-level visual processes that are critical in the hierarchy of visual word recognition - the extraction of viewpoint-invariant line junctions/vertices. We used contour-deleted words in two conditions - preservation of the vertices versus preservation of midsegments and an all-contour condition. We found evidence of a composite effect that was equivalent for all materials. Thus, we found no evidence of an early contribution of holistic processing to word recognition, and confirmed that holistic word processing is related to late lexical orthographic representations.
+abstract: The other-race effect (ORE) is a well-known phenomenon in which people discriminate and recognize faces from their ethnic group more accurately than faces from other ethnic groups. Holistic processing, or the mandatory tendency to process all parts of an object together, has been proposed as an explanation for the ORE. According to the holistic perspective of the ORE, other-race faces might be subject to weaker holistic processing than own-race faces. However, evidence for this hypothesis is inconsistent. Although it is generally assumed that holistic processing helps the individuation of objects, holistic processing may also come at a cost. Specifically, holistic processing may reduce the capacity to localize changes in the constituent parts of an object, but not in detecting changes to an object as a whole. In the present study, we examined change detection and change localization accuracy for Caucasian and African faces, and houses. Performance was better for change detection than change localization for Caucasian faces. While clear costs of holistic processing for Caucasian faces were thus found, the difference between change localization and change detection was not obvious for African faces. However, childhood exposure to other-race people correlated with change detection for African faces, but not with change localization for African faces. Our results thus show that holistic processing of other-race faces may depend on early contact with other-race people.
 
 # links:
 # - name: ""
