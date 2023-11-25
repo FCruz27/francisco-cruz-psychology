@@ -1,18 +1,15 @@
 ---
-title: "Do individuation instructions reduce the cross-race effect? A registered replication of Hugenberg, Miller, and Claypool (2007)"
+title: "The mechanisms supporting holistic perception of words and faces are not independent"
 authors:
+- Paulo Ventura
+- Tina T. Liu
 - admin
-- Tomás A. Palma
-- Emil Bansemer
-- Joshua Correll
-- Sara Fonseca
-- Patricia Gonçalves
-- Ana Sofia Santos
-date: "2022-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jesp.2022.104423"
+- Alexandre Pereira
+date: "2023-05-01T00:00:00Z"
+doi: "https://doi.org/10.3758/s13421-022-01369-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,15 +17,15 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Experimental Social Psychology, 104*(1)"
+publication: "*Memory & Cognition, 51* (4)"
 publication_short: ""
 
-abstract: People usually have less accurate memory for cross-race (CR) than for same-race (SR) faces, a robust and consequential phenomenon known as the Cross-Race Effect (CRE). In an influential paper, Hugenberg et al. (2007) showed that the CRE can be eliminated when participants are instructed to individuate CR faces in order to avoid displaying this effect. This finding has received widespread attention, and many studies have attempted to replicate it, with mixed results. In the present research, we attempted to replicate the effect of the individuation instructions in eliminating the CRE (Hugenberg et al., 2007) in two pre-registered experiments in two different cultures – the United States and Portugal. The results of both experiments found no evidence that instructing participants to individuate CR faces eliminates or even attenuates the CRE. Additionally, we also examined and failed to find support for the idea that these individuation instructions are more effective for the participants who report greater contact with CR faces (Young & Hugenberg, 2012). Finally, we also did not find evidence that the cultural setting moderates the effect of the individuation instructions of the CRE. We critically discuss the potential reasons for the lack of impact on the individuation instructions in the CRE and its implications for a prominent motivational account of this effect.
+abstract: The question of whether word and face recognition rely on overlapping or dissociable neural and cognitive mechanisms received considerable attention in the literature. In the present work, we presented words (aligned or misaligned) superimposed on faces (aligned or misaligned) and tested the interference from the unattended stimulus category on holistic processing of the attended category. In Experiment 1, we found that holistic face processing is reduced when a face was overlaid with an unattended, aligned word (processed holistically). In Experiment 2, we found a similar reduction of holistic processing for words when a word was superimposed on an unattended, aligned face (processed holistically). This reciprocal interference effect indicates a trade-off in holistic processing of the two stimuli, consistent with the idea that word and face recognition may rely on non-independent, overlapping mechanisms.
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/364830713_Do_individuation_instructions_reduce_the_cross-race_effect_A_registered_replication_of_Hugenberg_Miller_and_Claypool_2007
+url_pdf: https://www.researchgate.net/profile/Paulo-Ventura-3/publication/365369430_The_mechanisms_supporting_holistic_perception_of_words_and_faces_are_not_independent
 url_code: ''
 url_dataset: ''
 url_poster: ''
