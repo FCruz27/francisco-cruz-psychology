@@ -4,11 +4,11 @@ authors:
 - Paulo Ventura
 - Alexandre Banha
 - admin
-date: "2022-02-16T00:00:00Z"
-doi: "https://doi.org/10.3758/s13414-022-02448-9"
+date: "2022-06-07T00:00:00Z"
+doi: "https://doi.org/10.3758/s13421-022-01333-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-16T00:00:00Z"
+publishDate: "2022-06-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,10 +16,10 @@ publishDate: "2022-02-16T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Attention, Perception, & Psychophysics, 84*(3)"
+publication: "*Memory & Cognition, 50*(6)"
 publication_short: ""
 
-abstract: The other-race effect (ORE) is a well-known phenomenon in which people discriminate and recognize faces from their ethnic group more accurately than faces from other ethnic groups. Holistic processing, or the mandatory tendency to process all parts of an object together, has been proposed as an explanation for the ORE. According to the holistic perspective of the ORE, other-race faces might be subject to weaker holistic processing than own-race faces. However, evidence for this hypothesis is inconsistent. Although it is generally assumed that holistic processing helps the individuation of objects, holistic processing may also come at a cost. Specifically, holistic processing may reduce the capacity to localize changes in the constituent parts of an object, but not in detecting changes to an object as a whole. In the present study, we examined change detection and change localization accuracy for Caucasian and African faces, and houses. Performance was better for change detection than change localization for Caucasian faces. While clear costs of holistic processing for Caucasian faces were thus found, the difference between change localization and change detection was not obvious for African faces. However, childhood exposure to other-race people correlated with change detection for African faces, but not with change localization for African faces. Our results thus show that holistic processing of other-race faces may depend on early contact with other-race people.
+abstract: A dual-route account of holistic processing has been proposed, which includes a stimulus-based and experience-based approach to holistic processing. The bottom-up route was suggested by the observation of holistic processing for novel Gestalt line patterns in the absence of expertise. For words, there is mainly evidence for a late, lexical, experience-based locus of holistic processing with scarce evidence for an early, stimulus-based locus. However, salient early Gestalt information (i.e., connectedness, closure, and continuity between parts) are important for letter and word identification. Thus, there might be an overlap at an early, perceptual processing stage, between Gestalt stimulus-based holistic processing and word holistic processing. In the task we used, words and Gestalt line patterns were superimposed, and we evaluated whether one class of stimuli was processed less holistically when an aligned other class pattern (processed holistically) was superimposed. There was some evidence supporting an early locus for the influence of word processing on Gestalt line patterns, but the interaction between the two stimuli was not reciprocal, which needs further clarification. When an aligned word (processed holistically) was overlaid on a line pattern, the line pattern was processed less holistically. However, when an aligned line pattern (processed holistically) was overlaid on a word, the word was not processed less holistically. This pattern might result from the higher cohesiveness of words and their automaticity and feedback from the lexicon.
 
 # links:
 # - name: ""
