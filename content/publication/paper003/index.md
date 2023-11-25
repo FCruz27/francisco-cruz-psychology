@@ -24,7 +24,7 @@ abstract: A dual-route account of holistic processing has been proposed, which i
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/343983679_Further_evidence_for_a_late_locus_of_holistic_word_processing_Exploring_vertex_effect_in_the_word_composite_task
+url_pdf: https://www.researchgate.net/publication/361154561_Partial_overlap_between_holistic_processing_of_words_and_Gestalt_line_stimuli_at_an_early_perceptual_stage
 url_code: ''
 url_dataset: ''
 url_poster: ''
