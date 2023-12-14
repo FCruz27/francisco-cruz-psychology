@@ -1,5 +1,5 @@
 ---
-title: "Neuropsychologia"
+title: "From Perugino to Picasso revisited: Electrophysiological responses to faces in paintings from different art styles"
 authors:
 - Paulo Ventura
 - Mariona Pascual
