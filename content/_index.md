@@ -95,6 +95,15 @@ sections:
           date_start: '2023-01-01'
           description: ''
           icon: ''
+          organization: XVIII PhD Meeting in Psychology
+          organization_url: '' 
+          title: Best Poster Presentation
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          icon: ''
           organization: Jornadas do Jovem Investigador em Psicologia 2023
           organization_url: '' 
           title: Best Conference Presentation - 1st Place
