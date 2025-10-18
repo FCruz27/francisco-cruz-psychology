@@ -1,13 +1,13 @@
 ---
-title: "Learning psychology changes deep-rooted beliefs about the nature of psychological phenomena: Effects on intuitive dualism and beliefs about science"
+title: "How laypeople evaluate scientific explanations containing jargon"
 authors:
 - admin
-- André Mata
-date: "2025-10-16T00:00:00Z"
-doi: "https://doi.org/10.1016/j.learninstruc.2025.102252"
+- Tania Lombrozo
+date: "2025-06-12T00:00:00Z"
+doi: "https://doi.org/10.1038/s41562-025-02227-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-16T00:00:00Z"
+publishDate: "2025-06-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,15 +15,15 @@ publishDate: "2025-10-16T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Learning & Instruction*"
+publication: "*Nature Human Behaviour*"
 publication_short: ""
 
-abstract: "Learning about certain disciplines can change students’ way of thinking (e.g., economy students become less cooperative, philosophy students become more reflective). We explore whether studying psychology affects students’ beliefs about whether certain psychological phenomena can be explained by science, and whether they stem from a material (brain) or immaterial (soul) basis. A total of 315 psychology students at different levels into their studies (i.e., Years 1–5 of training) and 62 age-matched controls were considered. Participants provided fast and slow ratings about whether psychological phenomena stem from the brain vs. soul, as well as scientific explainability ratings. Finally, their knowledge about psychology was assessed. Training in psychology (years of training) was associated with higher beliefs that psychological phenomena are explainable by science, and that they stem from the brain (even when those beliefs were probed with fast responses), but only when that training translated into greater knowledge of psychology. That is, exposure to psychology per se did not seem to affect beliefs about psychology as a science and psychological phenomena are brain-based; only when participants gained sound knowledge of psychology (which most tended to accrue in their training) did their beliefs about psychological phenomena change. Finally, we found that the more participants considered a psychological phenomenon to be brain-based, the more it was considered to be scientifically explainable.Implications for recent debates about whether practice alone is sufficient for expertise development (e.g., 10,000 h rule) are discussed."
+abstract: "Individuals rely on others’ expertise to achieve a basic understanding of the world. But how can non-experts achieve understanding from explanations that, by definition, they are ill-equipped to assess? Across 9 experiments with 6,698 participants (Study 1A = 737; 1B = 734; 1C = 733; 2A = 1,014; 2B = 509; 2C = 1,012; 3A = 1,026; 3B = 512; 4 = 421), we address this puzzle by focusing on scientific explanations with jargon. We identify ‘when’ and ‘why’ the inclusion of jargon makes explanations more satisfying, despite decreasing their comprehensibility. We find that jargon increases satisfaction because laypeople assume the jargon fills gaps in explanations that are otherwise incomplete. We also identify strategies for debiasing these judgements: when people attempt to generate their own explanations, inflated judgements of poor explanations with jargon are reduced, and people become better calibrated in their assessments of their own ability to explain."
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0959475225001768
+url_pdf: https://www.researchgate.net/publication/392628925_How_laypeople_evaluate_scientific_explanations_containing_jargon
 url_code: ''
 url_dataset: ''
 url_poster: ''

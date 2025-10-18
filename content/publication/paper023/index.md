@@ -1,15 +1,13 @@
 ---
-title: "Relational processing in faces in paintings varying along a realism continuum"
+title: "Naturalistic faces and faces in paintings: An overview"
 authors:
 - Paulo Ventura
-- Alexandre Pereira
 - admin
-- Tina T. Liu
-date: "2025-10-18T00:00:00Z"
-doi: "https://doi.org/10.1037/aca0000815"
+date: "2025-10-01T00:00:00Z"
+doi: "https://doi.org/10.3390/encyclopedia5030117"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-18T00:00:00Z"
+publishDate: "2025-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,15 +15,15 @@ publishDate: "2025-10-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychology of Aesthetics, Creativity, and the Arts*"
+publication: "*Encyclopedia*"
 publication_short: ""
 
-abstract: "Human face processing relies heavily on configural processing—the ability to perceive the spatial relationships between facial features—rather than on processing individual features in isolation. In this study, we explored configural processing of faces in paintings, comparing artworks along a realism/distortion continuum, including Renaissance, Postimpressionism, Expressionism, and Cubism. To test competing hypotheses regarding a possible modulation by art style in relational processing, we asked how inversion hinders configural processing of faces in paintings. We found gradation in relational processing, with an inversion effect for Renaissance and Postimpressionism face paintings but no inversion effect for Expressionism and Cubism face paintings. Distortion in the positioning of facial features introduced in Expressionism and Cubism is most probably related to the lesser importance of relational processing in these art styles, whereas the higher realism of faces in Renaissance and Postimpressionist paintings fosters the recruitment of mechanisms involved in the processing of real faces."
+abstract: "Faces are the most important social signal in our society. Nevertheless, there is a problem with faces: they are all made up of the same features in the same general order (the eyes are above the nose, which is above the mouth). To process faces one uses a special kind of processing, which is holistic, considering the integration of the face’s features and their relative distances. One may distinguish the recognition of known faces and the processing of unfamiliar faces. Face processing abilities may be lost due to either a lesion or developmental reasons, i.e., prosopagnosia. To further explore these reasons, one could consider pictorial representations of faces—such as faces in paintings. These are particularly interesting because different art styles differ in how realistic/distorted they are relative to real faces, which allows for exploring people’s sensitivity to face-likeness. In a way, individuals are not sensitive to face-likeness. In face matching part–whole tasks, performance does not differ across art styles. Still, individuals are not fully impervious to distortion: early markers of face processing (N170 component) are sensitive to face-likeness, with more realistic (vs. distorted) art styles eliciting responses more in line with those of real faces."
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/396533004_Relational_Processing_in_Faces_in_Paintings_Varying_Along_a_Realism_Continuum
+url_pdf: https://www.researchgate.net/publication/394665301_Naturalistic_Faces_and_Faces_in_Paintings_An_Overview
 url_code: ''
 url_dataset: ''
 url_poster: ''

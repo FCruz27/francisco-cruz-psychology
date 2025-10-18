@@ -1,20 +1,15 @@
 ---
-title: "Can large language models help predict results from a complex behavioural science study?"
+title: "Relational processing in faces in paintings varying along a realism continuum"
 authors:
-- Steffen Lippert
-- Anna Dreber
-- Magnus Johannesson
-- Warren Tierney
-- Wilson Cyrus-Lai
-- Eric Luis Uhlmann
+- Paulo Ventura
+- Alexandre Pereira
 - admin
-- Emotion Expression Collaboration
-- Thomas Pfeiffer
-date: "2024-09-25T00:00:00Z"
-doi: "https://doi.org/10.1098/rsos.240682"
+- Tina T. Liu
+date: "2025-10-18T00:00:00Z"
+doi: "https://doi.org/10.1037/aca0000815"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-25T00:00:00Z"
+publishDate: "2025-10-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,15 +17,15 @@ publishDate: "2024-09-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Royal Society Open Science, 11*"
+publication: "*Psychology of Aesthetics, Creativity, and the Arts*"
 publication_short: ""
 
-abstract: We tested whether large language models (LLMs) can help predict results from a complex behavioural science experiment. In study 1, we investigated the performance of the widely used LLMs GPT-3.5 and GPT-4 in forecasting the empirical findings of a large-scale experimental study of emotions, gender, and social perceptions. We found that GPT-4, but not GPT-3.5, matched the performance of a cohort of 119 human experts, with correlations of 0.89 (GPT-4), 0.07 (GPT-3.5) and 0.87 (human experts) between aggregated forecasts and realized effect sizes. In study 2, providing participants from a university subject pool the opportunity to query a GPT-4 powered chatbot significantly increased the accuracy of their forecasts. Results indicate promise for artificial intelligence (AI) to help anticipate—at scale and minimal cost—which claims about human behaviour will find empirical support and which ones will not. Our discussion focuses on avenues for human–AI collaboration in science.
+abstract: "Human face processing relies heavily on configural processing—the ability to perceive the spatial relationships between facial features—rather than on processing individual features in isolation. In this study, we explored configural processing of faces in paintings, comparing artworks along a realism/distortion continuum, including Renaissance, Postimpressionism, Expressionism, and Cubism. To test competing hypotheses regarding a possible modulation by art style in relational processing, we asked how inversion hinders configural processing of faces in paintings. We found gradation in relational processing, with an inversion effect for Renaissance and Postimpressionism face paintings but no inversion effect for Expressionism and Cubism face paintings. Distortion in the positioning of facial features introduced in Expressionism and Cubism is most probably related to the lesser importance of relational processing in these art styles, whereas the higher realism of faces in Renaissance and Postimpressionist paintings fosters the recruitment of mechanisms involved in the processing of real faces."
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/384357589_Can_large_language_models_help_predict_results_from_a_complex_behavioural_science_study
+url_pdf: https://www.researchgate.net/publication/396533004_Relational_Processing_in_Faces_in_Paintings_Varying_Along_a_Realism_Continuum
 url_code: ''
 url_dataset: ''
 url_poster: ''

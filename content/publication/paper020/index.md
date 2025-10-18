@@ -1,13 +1,13 @@
 ---
-title: "Motivated bias blind spot: People confess to more or less bias depending on its desirability"
+title: "Lay perceptions of psychology: The (mis)match between lay beliefs and explanatory stances"
 authors:
 - admin
 - André Mata
-date: "2025-06-01T00:00:00Z"
-doi: "https://doi.org/10.1007/s11299-025-00325-0"
+date: "2025-05-01T00:00:00Z"
+doi: "https://doi.org/10.1080/09515089.2025.2514626"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-06-01T00:00:00Z"
+publishDate: "2025-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,15 +15,15 @@ publishDate: "2025-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mind & Society*"
+publication: "*Philosophical Psychology*"
 publication_short: ""
 
-abstract: "Though people readily claim that others fall prey to several biases, they are less likely to recognize those same biases in themselves – a tendency termed bias blind spot (Pronin et al. in Personality Social Psychol Bull 23:369–381, 2002). The bias blind spot is believed to emerge due to people’s overreliance on introspection for assessing their biases (which is unlikely to turn up evidence of bias), while bias in other people is ascribed based on their behaviors. Many biases, however, are perceived as negative and thus the bias blind spot may reflect the desire to see oneself in a positive light. Moreover, not all biases are necessarily undesirable, and thus people may be motivated to admit to biases that are considered desirable. We explore this motivational account for the bias blind spot by manipulating bias desirability within- and across-biases. Participants report a smaller bias blind spot after reading a bias description that focuses on its positive outcomes, relative to when the same description details its negative consequences (Study 1). We obtain convergent evidence when considering perceptions of bias desirability (Study 2): The more a person rates a bias as desirable, the less bias blind spot they report for it. Implications are discussed with regard to what constitutes an adaptative bias – namely that a bias can be considered an error from the logical standpoint and nevertheless be socially advantageous and thus adaptive."
+abstract: "People do not think that all psychological phenomena are equally explainable through science: Psychological phenomena associated with a high first-person subjective experience (henceforth, FPSE; i.e. associated with a strong phenomenological experience) are considered less scientifically explainable than low-FPSE psychological phenomena (i.e. those lacking such phenomenological quality). We contrast two possible accounts for this finding: 1) a generalized tendency to consider high-FPSE phenomena less explainable through science, and 2) a tendency to evoke a specific type of scientific explanation, more closely aligned with people’s beliefs about the nature of low-FPSE phenomena, that makes those phenomena be perceived as more explainable by science. Across two studies, participants considered different explanatory stances (as posited in the philosophy of mind literature: intentional, design/functional, and physical/implementational) and reported the extent to which these could explain low- and high-FPSE phenomena. In Study 1, participants considered low-FPSE phenomena more explainable, and rated implementational explanations as better than intentional ones (but these did not interact). In Study 2, intentional and implementational explanations were deemed more appropriate to address high- and low-FPSE phenomena, respectively. Taken together, these results may suggest that both accounts can accommodate the higher explainability beliefs of low-FPSE phenomena, and that the fit between the characteristics of the explanation and of the phenomenon is considered when people are looking for the best scientific explanation."
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/392476656_Motivated_bias_blind_spot_people_confess_to_more_or_less_bias_depending_on_its_desirability
+url_pdf: https://www.researchgate.net/publication/392279624_Lay_perceptions_of_psychology_the_mismatch_between_lay_beliefs_and_explanatory_stances
 url_code: ''
 url_dataset: ''
 url_poster: ''

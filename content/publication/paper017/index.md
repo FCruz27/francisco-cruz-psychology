@@ -1,11 +1,17 @@
 ---
-title: "The role of transitional probabilities in word holistic processing"
+title: "Can large language models help predict results from a complex behavioural science study?"
 authors:
-- Paulo Ventura
+- Steffen Lippert
+- Anna Dreber
+- Magnus Johannesson
+- Warren Tierney
+- Wilson Cyrus-Lai
+- Eric Luis Uhlmann
 - admin
-- Alexandre Pereira
+- Emotion Expression Collaboration
+- Thomas Pfeiffer
 date: "2024-09-25T00:00:00Z"
-doi: "https://doi.org/10.1177/03010066241279932"
+doi: "https://doi.org/10.1098/rsos.240682"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-25T00:00:00Z"
@@ -16,15 +22,15 @@ publishDate: "2024-09-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Perception, 03010066241279932*"
+publication: "*Royal Society Open Science, 11*"
 publication_short: ""
 
-abstract: In recent years, increased attention has been devoted to visual word recognition under a perceptual expertise framework. Because the information required to identify words is distributed across the word, a holistic attentional strategy is optimal and develops with experience. It is, however, an open question the extent to which other information embedded in a word may contribute to word holistic processing, namely sublexical word properties. In the present research, we therefore explore the role of sublexical properties—specifically bigram transition probabilities—in this processing strategy. We used a common task in the holistic processing literature (i.e., composite task) and four-letter disyllabic words, where two of the bigrams reinforce the cohesiveness of each syllable and one of the bigrams reinforces the cohesiveness between the syllables. We found preliminary evidence of a role of these sublexical properties in word holistic processing.
+abstract: We tested whether large language models (LLMs) can help predict results from a complex behavioural science experiment. In study 1, we investigated the performance of the widely used LLMs GPT-3.5 and GPT-4 in forecasting the empirical findings of a large-scale experimental study of emotions, gender, and social perceptions. We found that GPT-4, but not GPT-3.5, matched the performance of a cohort of 119 human experts, with correlations of 0.89 (GPT-4), 0.07 (GPT-3.5) and 0.87 (human experts) between aggregated forecasts and realized effect sizes. In study 2, providing participants from a university subject pool the opportunity to query a GPT-4 powered chatbot significantly increased the accuracy of their forecasts. Results indicate promise for artificial intelligence (AI) to help anticipate—at scale and minimal cost—which claims about human behaviour will find empirical support and which ones will not. Our discussion focuses on avenues for human–AI collaboration in science.
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/384078481_The_role_of_transitional_probabilities_in_word_holistic_processing
+url_pdf: https://www.researchgate.net/publication/384357589_Can_large_language_models_help_predict_results_from_a_complex_behavioural_science_study
 url_code: ''
 url_dataset: ''
 url_poster: ''
