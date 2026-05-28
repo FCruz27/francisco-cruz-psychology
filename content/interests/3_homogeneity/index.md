@@ -1,6 +1,6 @@
 ---
-title: Temporal outgroups
-summary: Thinking of our social groups in the past (e.g., our compatriots in 1922) changes the way we perceive them as a social category, namely by leading us to believe that the group members are more similar to one another than its present members are. In this project, we address the potentially relevant psychological mechanisms promoting differential beliefs about the homogeneity of closely related social groups.
+title: Representations of the self and others
+summary: In this research program, I seek to unravel the cognitive and motivational underpinning of self and social representations; concretely, how people think about social groups and about themselves in these groups. Work includes how people internally represent heterogeneity in present and past social groups, how motivational factors promote a bias blind spot (i.e., perceiving oneself as systematically less biased than others), among others.
 date: '2023-11-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

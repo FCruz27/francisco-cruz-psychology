@@ -1,6 +1,6 @@
 ---
 title: Word and face processing
-summary: My research interest here lies in the underlying mechanisms - such as holistic processing of visual stimuli - enabling fast and accurate identification of frequently-exposed-to objects, namely words and faces. Moreover, I also explore the how’s and why’s behind the cross-race effect - the tendency for people to more accurately recall faces belonging to their ethnicity (vs. faces from other ethnicities).
+summary: In this research program, I explore the underlying mechanisms - such as holistic processing of visual stimuli - that enable fast and accurate identification of frequently-exposed-to objects, namely words and faces. Moreover, I also explore the how’s and why’s behind the cross-race effect - the tendency for people to more accurately recall faces belonging to their ethnicity (vs. faces from other ethnicities).
 date: '2023-11-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Student
+role: Invited Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Lisbon | Princeton University
+  - name: Universidade de Lisboa | Universidade Europeia
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Francisco Cruz is a doctoral student in social psychology at the Faculty of Psychology, University of Lisbon, under the supervision of Prof. André Mata (University of Lisbon) and Prof. Tania Lombrozo (Princeton University). Currently, he is visiting Princeton University in research collaborator capacity. His project explores why people are sceptical of psychology as a science, as well as how to increase trust in psychological science. His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces). He is a Student Affiliate at the Center for the Science of Moral Understanding, an Author at CogBites, and an Opinion Editor at Cruamente.
+bio: Francisco Cruz is an invited assistant professor in psychology, statistics, and methods at the Faculdade de Psicologia, Universidade de Lisboa, and Faculdade de Ciências da Saúde, Universidade Europeia. Junior Consulting Editor at the Journal of European Social Psychology, 2025-present. Social Psychology Ph.D. on lay beliefs about science, supervised by Prof. André Mata (Universidade de Lisboa) and Prof. Tania Lombrozo (Princeton University), 2022-2025. Visiting Student Research Collaborator at Princeton University, 2023-2024. Society for General Psychology and Interdisciplinary Inquiry, Fulbright Portugal, and Fundação para a Ciência e Tecnologia awardee. His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces).
 
 # Interests to show in About widget
 interests:
@@ -38,16 +38,16 @@ interests:
 education:
   courses:
     - course: PhD in Social Psychology
-      institution: Faculty of Psychology, University of Lisbon
-      year: Ongoing
+      institution: Faculdade de Psicologia, Universidade de Lisboa
+      year: 2025
     - course: Visiting Student
       institution: Department of Psychology, Princeton University
-      year: Ongoing
+      year: 2024
     - course: PgDip in Data Analysis in Social Sciences
       institution: School of Sociology and Public Policy, Iscte
       year: 2022
     - course: Integrated MSc in Applied Social Cognition
-      institution: Faculty of Psychology, University of Lisbon
+      institution: Faculdade de Psicologia, Universidade de Lisboa
       year: 2021
     - course: ERASMUS+ Programme in Psychology
       institution: Faculty of Behavioural and Social Sciences, University of Groningen
@@ -89,9 +89,11 @@ social:
 highlight_name: true
 ---
 
-Francisco Cruz is a doctoral student in social psychology at the Faculty of Psychology, University of Lisbon, under the supervision of Prof. André Mata (University of Lisbon) and Prof. Tania Lombrozo (Princeton University). Currently, he is visiting Princeton University in research collaborator capacity. His project explores why people are sceptical of psychology as a science, as well as how to increase trust in psychological science. 
+Francisco Cruz is an invited assistant professor in psychology, statistics, and methods at the Faculdade de Psicologia, Universidade de Lisboa, and Faculdade de Ciências da Saúde, Universidade Europeia. 
+Junior Consulting Editor at the Journal of European Social Psychology, 2025-present. 
+Social Psychology Ph.D. on lay beliefs about science, supervised by Prof. André Mata (Universidade de Lisboa) and Prof. Tania Lombrozo (Princeton University), 2022-2025. 
+Visiting Student Research Collaborator at Princeton University, 2023-2024. 
+Society for General Psychology and Interdisciplinary Inquiry, Fulbright Portugal, and Fundação para a Ciência e Tecnologia awardee. 
 
-His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces). 
-
-He is a Student Affiliate at the Center for the Science of Moral Understanding, an Author at CogBites, and an Opinion Editor at Cruamente.
+His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces).
 {style="text-align: justify;"}
