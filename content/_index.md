@@ -83,6 +83,24 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2026-01-01'
+          description: ''
+          icon: ''
+          organization: European Association fr Social Psychology
+          organization_url: '' 
+          title: EASP 2026 General Meeting Travel Grant
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-01'
+          description: ''
+          icon: ''
+          organization: Society for General Psychology and Interdisciplinary Inquiry
+          organization_url: '' 
+          title: 2024 Anne Anastasi General Psychology Graduate Student Award 
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2023-01-01'
           description: ''
           icon: ''
@@ -142,14 +160,14 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: franciscocorreiadacruz@gmail.com
+      email: franciscocorreiadacruz [at] gmail.com
       address:
-        street: Peretsman Scully Hall, 222
-        city: Princeton
-        region: NJ
-        postcode: '08540'
-        country: United States
-        country_code: US 
+        street: Faculdade de Psicologia, Alameda da Universidade
+        city: Lisboa
+        region:
+        postcode: '1649-013'
+        country: Portugal
+        country_code: PT
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
