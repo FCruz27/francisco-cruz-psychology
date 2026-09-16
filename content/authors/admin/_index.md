@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Invited Assistant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidade de Lisboa | Universidade Europeia
+  - name: Ispa - Instituto Universitário
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Francisco Cruz is an invited assistant professor in psychology, statistics, and methods at the Faculdade de Psicologia, Universidade de Lisboa, and Faculdade de Ciências da Saúde, Universidade Europeia. Junior Consulting Editor at the Journal of European Social Psychology, 2025-present. Social Psychology Ph.D. on lay beliefs about science, supervised by Prof. André Mata (Universidade de Lisboa) and Prof. Tania Lombrozo (Princeton University), 2022-2025. Visiting Student Research Collaborator at Princeton University, 2023-2024. Society for General Psychology and Interdisciplinary Inquiry, Fulbright Portugal, and Fundação para a Ciência e Tecnologia awardee. His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces).
+bio: Francisco Cruz is an assistant professor in Cognitive Psychology at Ispa - Instituto Universitário. Junior Consulting Editor at the Journal of European Social Psychology, 2025-present. Invited assistant professor at Faculdade de Psicologia, Universidade de Lisboa (2026), and Faculdade de Ciências da Saúde, Universidade Europeia (2025-2026). Social Psychology Ph.D. on lay beliefs about science, supervised by Prof. André Mata (Universidade de Lisboa) and Prof. Tania Lombrozo (Princeton University), 2022-2025. Visiting Student Research Collaborator at Princeton University, 2023-2024. Society for General Psychology and Interdisciplinary Inquiry, Fulbright Portugal, and Fundação para a Ciência e Tecnologia awardee. His research interests include lay beliefs about science (i.e., what people believe that science can or cannot explain and why), motivated beliefs in science (i.e., the contexts in which people are more prone to accepting scientific explanations), representation of social groups (i.e., how people integrate information to provide judgments on shared homogeneity vs. heterogeneity across group members), epistemic trespassing (i.e., when people provide judgments on domains beyond those in which they are experts), intuitive mind-body dualism (i.e., a natural tendency to see the world as split in material and immaterial portions), and face perception (i.e., features driving the advantage in recall for own- vs. other-race faces).
 
 # Interests to show in About widget
 interests:
@@ -33,6 +33,7 @@ interests:
   - Social Cognition
   - Cognitive Psychology
   - Experimental Psychology
+  - Experimental Philosophy
 
 # Education to show in About widget
 education:
@@ -89,8 +90,9 @@ social:
 highlight_name: true
 ---
 
-Francisco Cruz is an invited assistant professor in psychology, statistics, and methods at the Faculdade de Psicologia, Universidade de Lisboa, and Faculdade de Ciências da Saúde, Universidade Europeia. 
+Francisco Cruz is an assistant professor in Cognitive Psychology at Ispa - Instituto Universitário. 
 Junior Consulting Editor at the Journal of European Social Psychology, 2025-present. 
+Invited assistant professor at Faculdade de Psicologia, Universidade de Lisboa, 2026, and Faculdade de Ciências da Saúde, Universidade Europeia, 2025-2026. 
 Social Psychology Ph.D. on lay beliefs about science, supervised by Prof. André Mata (Universidade de Lisboa) and Prof. Tania Lombrozo (Princeton University), 2022-2025. 
 Visiting Student Research Collaborator at Princeton University, 2023-2024. 
 Society for General Psychology and Interdisciplinary Inquiry, Fulbright Portugal, and Fundação para a Ciência e Tecnologia awardee. 
