@@ -86,7 +86,43 @@ sections:
           date_start: '2026-01-01'
           description: ''
           icon: ''
-          organization: European Association fr Social Psychology
+          organization: Longview Philanthropy
+          organization_url: '' 
+          title: Digital Minds Research Fellowship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2026-01-01'
+          description: ''
+          icon: ''
+          organization: European Association for Social Psychology
+          organization_url: '' 
+          title: EASP Seedcorn Grant 2026
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2026-01-01'
+          description: ''
+          icon: ''
+          organization: CICPSI, Faculdade de Psicologia, Universidade de Lisboa
+          organization_url: '' 
+          title: CICPSI Internal Research Funds 2026
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2026-01-01'
+          description: ''
+          icon: ''
+          organization: School of Psychology, University of Kent
+          organization_url: '' 
+          title: Grant Development Seed Funding
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2026-01-01'
+          description: ''
+          icon: ''
+          organization: European Association for Social Psychology
           organization_url: '' 
           title: EASP 2026 General Meeting Travel Grant
           url: ''
@@ -153,6 +189,15 @@ sections:
           organization_url: '' 
           title: Merit Fellowship 2020/2021
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-01-01'
+          description: ''
+          icon: ''
+          organization: European Association for Social Psychology
+          organization_url: '' 
+          title: EASP Preregistered Research Grant 2019
+          url: ''
     design:
       columns: '2'
   - block: contact
@@ -160,12 +205,12 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: franciscocorreiadacruz [at] gmail.com
+      email: fcruz [at] ispa [dot] pt
       address:
-        street: Faculdade de Psicologia, Alameda da Universidade
+        street: Rua Jardim do Tabaco 34, Office 134
         city: Lisboa
         region:
-        postcode: '1649-013'
+        postcode: '1149-041'
         country: Portugal
         country_code: PT
       # Automatically link email and phone or display as text?
